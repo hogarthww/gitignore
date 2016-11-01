@@ -1,6 +1,7 @@
 .frozenenv
 .env
 .tox
+.releasetools
 debian
 docs
 src
